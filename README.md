@@ -5,4 +5,3 @@ This project consists of a React Meme Generator Application that allows the user
 # To run this project
 
 npm start
-npm run dev
